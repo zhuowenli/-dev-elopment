@@ -32,6 +32,7 @@ vim buildAgent.properties
 ```
 
 > `serverUrl`： 可以改成你的 Teamcity 服务域名，例如 `https://teamcity.example.com`
+>
 > `name`： 可以改成自己的 anget 名，例如 `linux-prod-001`
 
 改完配置可以准备启动了，将下面这脚本写入 `~/start_teamcity.sh`

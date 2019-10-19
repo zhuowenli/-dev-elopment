@@ -29,4 +29,6 @@ https://cs4service.console.aliyun.com/#/k8s/service/list
 通过服务可以访问容器开放的端口，支持内网访问跟外网访问。功能相当于负载均衡。
 
 
+在 [弹性容器实例(ECI)](https://eci4service.console.aliyun.com/#/eci/) 可以看到已创建的容器
+
 
